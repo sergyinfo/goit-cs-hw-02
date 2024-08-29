@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
+
+# Compiled files
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+*.swp
+*.bak
+*.tmp
+*.tmp.*
+*~
+*.DS_Store
